@@ -1,0 +1,55 @@
+/*setting font*/
+
+h2 {
+	font-family: 'Indie Flower', cursive;
+}
+
+h3 {
+	font-family: 'Indie Flower', cursive;
+}
+
+h4 {
+	font-family: 'Indie Flower', cursive; color: RGB(0,185,228);
+}
+
+p {
+	font-family: 'Indie Flower', cursive;
+	font-size: 17px;
+}
+
+button {
+	font-family: 'Indie Flower', cursive;
+}
+
+.form-group {
+	font-family: 'Indie Flower', cursive;
+}
+
+/*background color*/
+
+body {
+	background-color: RGB(248,247,243)
+}
+
+/*navbar*/
+
+ul {
+	background-color: RGB(0,185,228)
+}
+
+li {
+	float: left;
+	padding: 10px;
+	font-family: 'Indie Flower', cursive;
+	font-size: 15px;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover{
+	color: RGB(255,190,201);
+	text-decoration: none;
+}
